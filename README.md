@@ -9,7 +9,7 @@
 
 - All of my public projects are available at [https://github.com/CarlFlood/](https://github.com/CarlFlood/)
 
-- Ask me about **MEAN/MERN stacks, HIPAA experience, Software security experience**
+- Ask me about **MEAN/MERN stacks, HIPAA experience, Employee Enablement**
 
 - How to reach me **carl@carlflood.com**
 
