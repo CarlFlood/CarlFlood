@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Carl Flood</h1>
-<h3 align="center">A passionate full-stack developer and Computer Science student in Chicago, IL</h3>
+<h3 align="center">A passionate full-stack developer in Chicago, IL</h3>
 
 - I’m currently working on [integrated controls with Chicago Hyperloop](https://github.com/ChicagoHyperloop)
 
-- I’m currently learning **Cross-Platform Development at the University of Illinois at Chicago as a part of my B.S. in Computer Science**
-
-- I’m looking to collaborate on **Angular & JS based web projects**
+- I’m currently working at **JPMorgan Chase & Co.**
 
 - All of my public projects are available at [https://github.com/CarlFlood/](https://github.com/CarlFlood/)
 
